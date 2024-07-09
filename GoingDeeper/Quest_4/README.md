@@ -1,4 +1,4 @@
-<img width="383" alt="image" src="https://github.com/hojae-m-choi/goaiffel-quest/assets/98305832/562a0e37-37d2-4bef-9dd3-bff82535adc0">🔑 **PRT(Peer Review Template)**
+🔑 **PRT(Peer Review Template)**
 코더: 고대현
 리뷰어: 최호재
 
